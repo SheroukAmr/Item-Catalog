@@ -77,10 +77,21 @@ h3 {
 .top-menu {
 	padding-top: 30px;
 	padding-bottom: 30px;
+	
 }
 .top-menu p {
 	margin-bottom: 0;
 	line-height: 16px;
+}
+#sign_in_button{
+    float: right;
+}
+
+#sign_in_button a{
+    float: right;
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
 }
 .top-menu a {
 	margin-bottom: 0;
